@@ -4,7 +4,7 @@
 #include <numbers>
 #include<imgui.h>
 
-const char kWindowTitle[] = "LE2C_20_タニタ_カイセイ";
+const char kWindowTitle[] = "LE2C_04_イセダ_コテツ";
 
 struct Vector3
 {
